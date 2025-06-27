@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Runming Chen</title><link>https://rcrunming.com/posts/</link><description>Recent content in Posts on Runming Chen</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2025 Runming Chen. All Rights Reserved.</copyright><lastBuildDate>Sun, 18 May 2025 13:15:27 +0800</lastBuildDate><atom:link href="https://rcrunming.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test1</title><link>https://rcrunming.com/posts/test1/</link><pubDate>Sun, 18 May 2025 13:15:27 +0800</pubDate><guid>https://rcrunming.com/posts/test1/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Runming Chen</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Runming Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Runming Chen. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 18 May 2025 13:15:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
